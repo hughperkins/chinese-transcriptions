@@ -1,0 +1,38 @@
+This is a partial Chinese transcription of Morvan's video,
+"强化学习方法汇总 (Reinforcement Learning)",
+https://www.youtube.com/watch?v=AINrxEjflaM
+
+Note that there are certainly errors in the below transcription.
+
+"
+Hello大家好欢迎观看
+有趣的机器学习系列(?)的视频。
+今天我们会了解强化学习上
+常会用到这种方法以及它们的除别。
+对我们根据特定问题选择方法是有帮助。
+
+0:11
+强化学习是一个大家族发展历史也不断。
+指有很多种不同的方法，
+比如说比较著名的控制方法q-learning, policy gradients,
+还有基于的环境理解的model-based RL等等。
+解释（？）来，我们通过分类的方式来了解它们的除别。
+
+00:29
+我们可以将所有的强化学习方法分为理不理解所处的环境。
+如果不诚实去理解环境，环境给我什么就是什么。
+我们就把这种方法叫做model-free.
+这里的model就是用模型来表示环境。
+那理解的环境也就属于获得一种模型来代表环境。
+所以这种叫做model-based方法。
+
+00:49
+我们想象现在的环境是我们所处的世界。
+我们的机器人正在这个世界上玩耍。
+他不理解这个世界是怎样构成的。
+也不理解这个世界对他们的行为会做出怎么样的反馈。
+据一个例子。他决定投一颗原子弹到真的的世界。
+结果把自己也打死了。所有结果都是那么现实。
+"
+
+1:38
